@@ -51,7 +51,7 @@ function OrionLib:GenTheme(mainColor)
     return t
 end
 
-OrionLib.Themes.Default = OrionLib:GenTheme(Color3.fromRGB(31, 20, 37))
+OrionLib.Themes.Default = OrionLib:GenTheme(Color3.fromRGB(5, 5, 5))
 OrionLib.CurrentTheme = OrionLib.Themes.Default
 
 -- Rainbow Accents
